@@ -1,0 +1,9 @@
+chromadb
+fastapi
+uvicorn
+openai
+pandas
+requests
+streamlit
+joblib
+scikit-learn==1.9.1
